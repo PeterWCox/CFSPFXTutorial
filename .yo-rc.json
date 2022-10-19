@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "cf-spfx-tutorial",
+    "libraryId": "cd4c4596-187e-4bc0-8730-fe06bf6b917e",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "CF-SPFX-Tutorial",
+    "solutionShortDescription": "CF-SPFX-Tutorial description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

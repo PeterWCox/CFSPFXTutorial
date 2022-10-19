@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "cf-spfx-tutorial-client-side-solution",
+    "id": "cd4c4596-187e-4bc0-8730-fe06bf6b917e",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "CF-SPFX-Tutorial description"
+      },
+      "longDescription": {
+        "default": "CF-SPFX-Tutorial description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "cf-spfx-tutorial Feature",
+        "description": "The feature that activates elements of the cf-spfx-tutorial solution.",
+        "id": "dbbe9cdf-9972-4c73-b9fa-fa98ac1073d6",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/cf-spfx-tutorial.sppkg"
+  }
+}
